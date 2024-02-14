@@ -14,7 +14,7 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="./svg/node.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="./svg/expressjs.svg" alt="expressjs" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="./svg/postgresql.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./svg/python.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="./svg/django.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./svg/python.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="./svg/django.svg" alt="django" width="40" height="40"/></a>
 
 </p>
